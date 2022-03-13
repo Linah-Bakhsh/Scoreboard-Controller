@@ -1,0 +1,48 @@
+C:\Users\farhat\source\repos\ScreenLDS\ScreenLDS\bin\Debug\ScreenLDS.exe.config
+C:\Users\farhat\source\repos\ScreenLDS\ScreenLDS\bin\Debug\ScreenLDS.exe
+C:\Users\farhat\source\repos\ScreenLDS\ScreenLDS\bin\Debug\ScreenLDS.pdb
+C:\Users\farhat\source\repos\ScreenLDS\ScreenLDS\obj\Debug\ScreenLDS.ControlScreen.resources
+C:\Users\farhat\source\repos\ScreenLDS\ScreenLDS\obj\Debug\ScreenLDS.Properties.Resources.resources
+C:\Users\farhat\source\repos\ScreenLDS\ScreenLDS\obj\Debug\ScreenLDS.ShowScreen_Logo.resources
+C:\Users\farhat\source\repos\ScreenLDS\ScreenLDS\obj\Debug\ScreenLDS.csproj.GenerateResource.cache
+C:\Users\farhat\source\repos\ScreenLDS\ScreenLDS\obj\Debug\ScreenLDS.exe
+C:\Users\farhat\source\repos\ScreenLDS\ScreenLDS\obj\Debug\ScreenLDS.pdb
+C:\Users\farhat\source\repos\ScreenLDS\ScreenLDS\obj\Debug\ScreenLDS.Main_Menu.resources
+C:\Users\farhat\source\repos\ScreenLDS\ScreenLDS\obj\Debug\ScreenLDS.Management_Panel.resources
+C:\Users\farhat\source\repos\ScreenLDS\ScreenLDS\obj\Debug\ScreenLDS.Setting.resources
+C:\Users\farhat\source\repos\ScreenLDS\ScreenLDS\obj\Debug\ScreenLDS.ShowScreen_NoLogo.resources
+C:\Users\farhat\source\repos\ScreenLDS\ScreenLDS\obj\Debug\ScreenLDS.Plenty.resources
+C:\Users\farhat\source\repos\ScreenLDS\ScreenLDS\obj\Debug\ScreenLDS.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ScreenLDS\ScreenLDS\ScreenLDS\bin\Debug\ScreenLDS.exe.config
+C:\Users\Admin\source\repos\ScreenLDS\ScreenLDS\ScreenLDS\bin\Debug\ScreenLDS.exe
+C:\Users\Admin\source\repos\ScreenLDS\ScreenLDS\ScreenLDS\bin\Debug\ScreenLDS.pdb
+C:\Users\Admin\source\repos\ScreenLDS\ScreenLDS\ScreenLDS\obj\Debug\ScreenLDS.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ScreenLDS\ScreenLDS\ScreenLDS\obj\Debug\ScreenLDS.ControlScreen.resources
+C:\Users\Admin\source\repos\ScreenLDS\ScreenLDS\ScreenLDS\obj\Debug\ScreenLDS.Plenty.resources
+C:\Users\Admin\source\repos\ScreenLDS\ScreenLDS\ScreenLDS\obj\Debug\ScreenLDS.Setting.resources
+C:\Users\Admin\source\repos\ScreenLDS\ScreenLDS\ScreenLDS\obj\Debug\ScreenLDS.Main_Menu.resources
+C:\Users\Admin\source\repos\ScreenLDS\ScreenLDS\ScreenLDS\obj\Debug\ScreenLDS.Management_Panel.resources
+C:\Users\Admin\source\repos\ScreenLDS\ScreenLDS\ScreenLDS\obj\Debug\ScreenLDS.Properties.Resources.resources
+C:\Users\Admin\source\repos\ScreenLDS\ScreenLDS\ScreenLDS\obj\Debug\ScreenLDS.ShowScreen_Logo.resources
+C:\Users\Admin\source\repos\ScreenLDS\ScreenLDS\ScreenLDS\obj\Debug\ScreenLDS.ShowScreen_NoLogo.resources
+C:\Users\Admin\source\repos\ScreenLDS\ScreenLDS\ScreenLDS\obj\Debug\ScreenLDS.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ScreenLDS\ScreenLDS\ScreenLDS\obj\Debug\ScreenLDS.exe
+C:\Users\Admin\source\repos\ScreenLDS\ScreenLDS\ScreenLDS\obj\Debug\ScreenLDS.pdb
+C:\Users\Admin\source\repos\ScreenLDS\ScreenLDS\ScreenLDS\obj\Debug\ScreenLDS.csproj.CoreCompileInputs.cache
+C:\Users\MOS Supervisor IT\source\repos\ScreenLDS\ScreenLDS\ScreenLDS\bin\Debug\ScreenLDS.exe.config
+C:\Users\MOS Supervisor IT\source\repos\ScreenLDS\ScreenLDS\ScreenLDS\bin\Debug\ScreenLDS.exe
+C:\Users\MOS Supervisor IT\source\repos\ScreenLDS\ScreenLDS\ScreenLDS\bin\Debug\ScreenLDS.pdb
+C:\Users\MOS Supervisor IT\source\repos\ScreenLDS\ScreenLDS\ScreenLDS\obj\Debug\ScreenLDS.csproj.AssemblyReference.cache
+C:\Users\MOS Supervisor IT\source\repos\ScreenLDS\ScreenLDS\ScreenLDS\obj\Debug\ScreenLDS.csproj.SuggestedBindingRedirects.cache
+C:\Users\MOS Supervisor IT\source\repos\ScreenLDS\ScreenLDS\ScreenLDS\obj\Debug\ScreenLDS.ControlScreen.resources
+C:\Users\MOS Supervisor IT\source\repos\ScreenLDS\ScreenLDS\ScreenLDS\obj\Debug\ScreenLDS.Plenty.resources
+C:\Users\MOS Supervisor IT\source\repos\ScreenLDS\ScreenLDS\ScreenLDS\obj\Debug\ScreenLDS.Setting.resources
+C:\Users\MOS Supervisor IT\source\repos\ScreenLDS\ScreenLDS\ScreenLDS\obj\Debug\ScreenLDS.Main_Menu.resources
+C:\Users\MOS Supervisor IT\source\repos\ScreenLDS\ScreenLDS\ScreenLDS\obj\Debug\ScreenLDS.Management_Panel.resources
+C:\Users\MOS Supervisor IT\source\repos\ScreenLDS\ScreenLDS\ScreenLDS\obj\Debug\ScreenLDS.Properties.Resources.resources
+C:\Users\MOS Supervisor IT\source\repos\ScreenLDS\ScreenLDS\ScreenLDS\obj\Debug\ScreenLDS.ShowScreen_Logo.resources
+C:\Users\MOS Supervisor IT\source\repos\ScreenLDS\ScreenLDS\ScreenLDS\obj\Debug\ScreenLDS.ShowScreen_NoLogo.resources
+C:\Users\MOS Supervisor IT\source\repos\ScreenLDS\ScreenLDS\ScreenLDS\obj\Debug\ScreenLDS.csproj.GenerateResource.cache
+C:\Users\MOS Supervisor IT\source\repos\ScreenLDS\ScreenLDS\ScreenLDS\obj\Debug\ScreenLDS.csproj.CoreCompileInputs.cache
+C:\Users\MOS Supervisor IT\source\repos\ScreenLDS\ScreenLDS\ScreenLDS\obj\Debug\ScreenLDS.exe
+C:\Users\MOS Supervisor IT\source\repos\ScreenLDS\ScreenLDS\ScreenLDS\obj\Debug\ScreenLDS.pdb
