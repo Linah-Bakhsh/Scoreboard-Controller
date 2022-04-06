@@ -1,0 +1,49 @@
+C:\Users\MOS Supervisor IT\Desktop\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\bin\Debug\net6.0-windows\ScoreboardDesign.exe
+C:\Users\MOS Supervisor IT\Desktop\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\bin\Debug\net6.0-windows\ScoreboardDesign.deps.json
+C:\Users\MOS Supervisor IT\Desktop\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\bin\Debug\net6.0-windows\ScoreboardDesign.runtimeconfig.json
+C:\Users\MOS Supervisor IT\Desktop\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\bin\Debug\net6.0-windows\ScoreboardDesign.dll
+C:\Users\MOS Supervisor IT\Desktop\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\bin\Debug\net6.0-windows\ScoreboardDesign.pdb
+C:\Users\MOS Supervisor IT\Desktop\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\ScoreboardDesign.csproj.AssemblyReference.cache
+C:\Users\MOS Supervisor IT\Desktop\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\MOS Supervisor IT\Desktop\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\MOS Supervisor IT\Desktop\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\ScoreboardDesign_MarkupCompile.cache
+C:\Users\MOS Supervisor IT\Desktop\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\ScoreboardDesign_MarkupCompile.lref
+C:\Users\MOS Supervisor IT\Desktop\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\MOS Supervisor IT\Desktop\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\ScoreboardDesign.g.resources
+C:\Users\MOS Supervisor IT\Desktop\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\ScoreboardDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOS Supervisor IT\Desktop\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\ScoreboardDesign.AssemblyInfoInputs.cache
+C:\Users\MOS Supervisor IT\Desktop\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\ScoreboardDesign.AssemblyInfo.cs
+C:\Users\MOS Supervisor IT\Desktop\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\ScoreboardDesign.csproj.CoreCompileInputs.cache
+C:\Users\MOS Supervisor IT\Desktop\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\ScoreboardDesign.dll
+C:\Users\MOS Supervisor IT\Desktop\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\refint\ScoreboardDesign.dll
+C:\Users\MOS Supervisor IT\Desktop\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\ScoreboardDesign.pdb
+C:\Users\MOS Supervisor IT\Desktop\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\ScoreboardDesign.genruntimeconfig.cache
+C:\Users\MOS Supervisor IT\Desktop\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\ref\ScoreboardDesign.dll
+C:\Users\MOS Supervisor IT\Desktop\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\App.baml
+C:\Users\MOS Supervisor IT\Desktop\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\Window1.g.cs
+C:\Users\MOS Supervisor IT\Desktop\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\Window1.baml
+D:\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\bin\Debug\net6.0-windows\ScoreboardDesign.exe
+D:\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\bin\Debug\net6.0-windows\ScoreboardDesign.deps.json
+D:\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\bin\Debug\net6.0-windows\ScoreboardDesign.runtimeconfig.json
+D:\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\bin\Debug\net6.0-windows\ScoreboardDesign.dll
+D:\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\bin\Debug\net6.0-windows\ScoreboardDesign.pdb
+D:\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\ScoreboardDesign.csproj.AssemblyReference.cache
+D:\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\Window1.g.cs
+D:\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\App.g.cs
+D:\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\ScoreboardDesign_MarkupCompile.cache
+D:\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\ScoreboardDesign_MarkupCompile.lref
+D:\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\App.baml
+D:\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\Window1.baml
+D:\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\ScoreboardDesign.g.resources
+D:\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\ScoreboardDesign.GeneratedMSBuildEditorConfig.editorconfig
+D:\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\ScoreboardDesign.AssemblyInfoInputs.cache
+D:\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\ScoreboardDesign.AssemblyInfo.cs
+D:\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\ScoreboardDesign.csproj.CoreCompileInputs.cache
+D:\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\ScoreboardDesign.dll
+D:\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\refint\ScoreboardDesign.dll
+D:\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\ScoreboardDesign.pdb
+D:\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\ScoreboardDesign.genruntimeconfig.cache
+D:\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\ref\ScoreboardDesign.dll
+D:\Design scoreBoard\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\Dictionary1.baml

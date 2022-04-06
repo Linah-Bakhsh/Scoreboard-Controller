@@ -1,0 +1,77 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="alahli.png.png" />
+    <None Remove="Al_Ahli_Saudi_FC_logo.svg.png" />
+    <None Remove="clock backeground%408x.png" />
+    <None Remove="clock border%408x.png" />
+    <None Remove="clock%408x.png" />
+    <None Remove="font.png" />
+    <None Remove="image border%408x.png" />
+    <None Remove="image%408x.png" />
+    <None Remove="img\play%408x - houver %282%29.png" />
+    <None Remove="img\play%408x.png" />
+    <None Remove="img\reset%408x-MouseOver.png" />
+    <None Remove="img\reset%408x.png" />
+    <None Remove="map.svg" />
+    <None Remove="oclock%408x.png" />
+    <None Remove="play list%408x.png" />
+    <None Remove="play%408x - houver %282%29.png" />
+    <None Remove="play%408x.png" />
+    <None Remove="preview%408x.png" />
+    <None Remove="puse%408x.png" />
+    <None Remove="report%408x.png" />
+    <None Remove="reset%408x.png" />
+    <None Remove="setting%408x.png" />
+    <None Remove="size%408x.png" />
+    <None Remove="stop%408x %282%29.png" />
+    <None Remove="stop%408x.png" />
+    <None Remove="streamed screen%408x.png" />
+    <None Remove="swap%408x.png" />
+    <None Remove="text background %408x.png" />
+    <None Remove="text boarder%408x.png" />
+    <None Remove="upload%408x.png" />
+    <None Remove="viseble%408x.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="alahli.png.png" />
+    <Resource Include="Al_Ahli_Saudi_FC_logo.svg.png" />
+    <Resource Include="clock backeground@8x.png" />
+    <Resource Include="clock border@8x.png" />
+    <Resource Include="clock@8x.png" />
+    <Resource Include="font.png" />
+    <Resource Include="image border@8x.png" />
+    <Resource Include="image@8x.png" />
+    <Resource Include="img\play@8x - houver (2).png" />
+    <Resource Include="img\play@8x.png" />
+    <Resource Include="img\reset@8x-MouseOver.png" />
+    <Resource Include="img\reset@8x.png" />
+    <Resource Include="oclock@8x.png" />
+    <Resource Include="play list@8x.png" />
+    <Resource Include="play@8x - houver (2).png" />
+    <Resource Include="play@8x.png" />
+    <Resource Include="preview@8x.png" />
+    <Resource Include="puse@8x.png" />
+    <Resource Include="report@8x.png" />
+    <Resource Include="reset@8x.png" />
+    <Resource Include="setting@8x.png" />
+    <Resource Include="size@8x.png" />
+    <Resource Include="stop@8x (2).png" />
+    <Resource Include="stop@8x.png" />
+    <Resource Include="streamed screen@8x.png" />
+    <Resource Include="swap@8x.png" />
+    <Resource Include="text background @8x.png" />
+    <Resource Include="text boarder@8x.png" />
+    <Resource Include="upload@8x.png" />
+    <Resource Include="viseble@8x.png" />
+  </ItemGroup>
+
+</Project>
