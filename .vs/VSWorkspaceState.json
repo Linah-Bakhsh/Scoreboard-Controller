@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ScoreboardDesign",
+    "\\ScoreboardDesign\\ScoreboardDesign"
   ],
-  "SelectedNode": "\\C:\\Users\\Admin\\Source\\Repos\\Scoreboard-Controller",
+  "SelectedNode": "\\ScoreboardDesign\\ScoreboardDesign\\Window1.xaml",
   "PreviewInSolutionExplorer": false
 }

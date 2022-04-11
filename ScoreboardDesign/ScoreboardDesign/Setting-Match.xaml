@@ -142,7 +142,7 @@
                 </Border>
 
                 <!---Clock -->
-                <Image Margin="50" Height="202" Source="/oclock@8x.png" Stretch="Fill" Width="202.2"/>
+                <Image Margin="50" Height="202" Source="img/oclock@8x.png" Stretch="Fill" Width="202.2"/>
             </StackPanel>
         </Viewbox>
 
@@ -211,14 +211,14 @@
                 <Button  Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FF6D7077">
                     <StackPanel Orientation="Horizontal">
                         <TextBlock Style="{StaticResource SubTitleGray}" >Edit backeground</TextBlock>
-                        <Image Style="{StaticResource icon}" Source="/image@8x.png" />
+                        <Image Style="{StaticResource icon}" Source="img/image@8x.png" />
                     </StackPanel>
                 </Button>
 
                 <Button  Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FF6D7077">
                     <StackPanel Orientation="Horizontal">
                         <TextBlock Style="{StaticResource SubTitleGray}" Text="Full previue" />
-                        <Image Style="{StaticResource icon}"  Source="/preview@8x.png" />
+                        <Image Style="{StaticResource icon}"  Source="img/preview@8x.png" />
                     </StackPanel>
                 </Button>
             </StackPanel>

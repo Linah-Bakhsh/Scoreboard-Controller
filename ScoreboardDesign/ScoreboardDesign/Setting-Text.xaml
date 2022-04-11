@@ -28,14 +28,14 @@
                 </Button>
                 <Separator Background="#FF1A1D24" Height="87.5" Width="2" Foreground="#FF1A1D24" />
 
-                <Image Margin="50,0,10,0" Style="{StaticResource icon}"  Source="/font.png" />
+                <Image Margin="50,0,10,0" Style="{StaticResource icon}"  Source="img/font.png" />
                 <ComboBox  x:Name="comboBo1x" Margin="15" Text="My Cities" Width="236" Height="37" HorizontalAlignment="Center"  BorderBrush="{x:Null}" Foreground="#FFE0E0E0" Background="#FF1A1D24"/>
 
-                <Image Margin="50,0,10,0" Style="{StaticResource icon}"  Source="/size@8x.png" />
+                <Image Margin="50,0,10,0" Style="{StaticResource icon}"  Source="img/size@8x.png" />
                 <CheckBox Height="39" Width="41" Background="#FF1A1D24"/>
-                <Image Margin="50,0,10,0" Style="{StaticResource icon}"  Source="/text boarder@8x.png" />
+                <Image Margin="50,0,10,0" Style="{StaticResource icon}"  Source="img/text boarder@8x.png" />
                 <CheckBox Height="39" Width="41" Background="#FF1A1D24"/>
-                <Image Margin="50,0,10,0" Style="{StaticResource icon}" Source="/text background @8x.png" />
+                <Image Margin="50,0,10,0" Style="{StaticResource icon}" Source="img/text background @8x.png" />
                 <CheckBox Style="{StaticResource CheckBoxStyle}" />
                 <Button Content="Accept" Margin="300,0,0,0" Style="{StaticResource BlueButton}"/>
                 <Button Content="Cancle" Margin="20,0,0,0" Style="{StaticResource BlackButton}"/>

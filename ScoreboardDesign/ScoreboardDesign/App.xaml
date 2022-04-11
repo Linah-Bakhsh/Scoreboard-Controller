@@ -291,7 +291,7 @@
                             <Trigger Property="IsMouseOver" Value="true">
                                 <Setter Property="Background">
                                     <Setter.Value>
-                                        <ImageBrush ImageSource="img/play@8x - houver (2).png" Stretch="None"/>
+                                        <ImageBrush ImageSource="img/play@8x - houver (2).png" Stretch="Uniform"/>
                                     </Setter.Value>
                                 </Setter>
                             </Trigger>
@@ -322,7 +322,7 @@
         <Style x:Key="StopButton" TargetType="Button">
             <Setter Property="Background">
                 <Setter.Value>
-                    <ImageBrush ImageSource="/stop@8x.png" Stretch="Uniform"/>
+                    <ImageBrush ImageSource="img/stop@8x.png" Stretch="Uniform"/>
                 </Setter.Value>
             </Setter>
             <Setter Property="Margin" Value="0" />
@@ -342,14 +342,14 @@
                             <Trigger Property="IsMouseOver" Value="true">
                                 <Setter Property="Background">
                                     <Setter.Value>
-                                        <ImageBrush ImageSource="/stop@8x (2).png" Stretch="Uniform"/>
+                                        <ImageBrush ImageSource="img/stop@8x (2).png" Stretch="Uniform"/>
                                     </Setter.Value>
                                 </Setter>
                             </Trigger>
                             <Trigger Property="IsPressed" Value="true">
                                 <Setter Property="Background">
                                     <Setter.Value>
-                                        <ImageBrush ImageSource="/stop@8x.png" Stretch="Uniform"/>
+                                        <ImageBrush ImageSource="img/stop@8x.png" Stretch="Uniform"/>
                                     </Setter.Value>
                                 </Setter>
                             </Trigger>
