@@ -1,0 +1,46 @@
+﻿<Page x:Class="ScoreboardDesign.Setting_Text"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ScoreboardDesign"
+      mc:Ignorable="d" 
+      Title="Setting_Text">
+
+    <Viewbox  MaxHeight="124">
+        <ToolBarTray  Height="124" VerticalAlignment="Top" Background="#FF2A3036" Grid.RowSpan="2" >
+            <ToolBar  Height="124" Background="{x:Null}" Visibility="Visible" RenderTransformOrigin="0.5,0.5" Width="1957">
+                <ToolBar.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform X="0" Y="0"/>
+                    </TransformGroup>
+                </ToolBar.RenderTransform>
+
+                <Button Command="Paste" ToolTip="Paste from Windows Clipboard.">
+                    <StackPanel Orientation="Horizontal">
+
+                        <TextBlock FontSize="40"  Margin="30" Text="Text Proparities"  Style="{StaticResource Title }"/>
+
+                    </StackPanel>
+                </Button>
+                <Separator Background="#FF1A1D24" Height="87.5" Width="2" Foreground="#FF1A1D24" />
+
+                <Image Margin="50,0,10,0" Style="{StaticResource icon}"  Source="/font.png" />
+                <ComboBox  x:Name="comboBo1x" Margin="15" Text="My Cities" Width="236" Height="37" HorizontalAlignment="Center"  BorderBrush="{x:Null}" Foreground="#FFE0E0E0" Background="#FF1A1D24"/>
+
+                <Image Margin="50,0,10,0" Style="{StaticResource icon}"  Source="/size@8x.png" />
+                <CheckBox Height="39" Width="41" Background="#FF1A1D24"/>
+                <Image Margin="50,0,10,0" Style="{StaticResource icon}"  Source="/text boarder@8x.png" />
+                <CheckBox Height="39" Width="41" Background="#FF1A1D24"/>
+                <Image Margin="50,0,10,0" Style="{StaticResource icon}" Source="/text background @8x.png" />
+                <CheckBox Style="{StaticResource CheckBoxStyle}" />
+                <Button Content="Accept" Margin="300,0,0,0" Style="{StaticResource BlueButton}"/>
+                <Button Content="Cancle" Margin="20,0,0,0" Style="{StaticResource BlackButton}"/>
+
+            </ToolBar>
+        </ToolBarTray>
+    </Viewbox>
+</Page>

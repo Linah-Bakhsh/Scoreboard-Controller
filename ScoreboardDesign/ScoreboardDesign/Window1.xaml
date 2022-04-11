@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="Window1" Height="1080" MinHeight="400" Width="1920" MinWidth="700" >
 
-    
+
 
     <DockPanel Background="#FF1A1D24">
 
@@ -27,243 +27,19 @@
         </Viewbox>
 
         <!---Tool box-->
-        <Viewbox DockPanel.Dock="Top" MaxHeight="124">
-            <ToolBarTray  Height="124" VerticalAlignment="Top" Background="#FF2A3036" Grid.RowSpan="2" >
-                <ToolBar  Height="124" Background="{x:Null}" Visibility="Visible" RenderTransformOrigin="0.5,0.5" Width="1957">
-                    <ToolBar.RenderTransform>
-                        <TransformGroup>
-                            <ScaleTransform/>
-                            <SkewTransform/>
-                            <RotateTransform/>
-                            <TranslateTransform X="0" Y="0"/>
-                        </TransformGroup>
-                    </ToolBar.RenderTransform>
-
-                    <Button Command="Paste" ToolTip="Paste from Windows Clipboard.">
-                        <StackPanel Orientation="Horizontal">
-
-                            <TextBlock FontSize="40"  Margin="30" Text="Text Proparities"  Style="{StaticResource Title }"/>
-
-                        </StackPanel>
-                    </Button>
-                    <Separator Background="#FF1A1D24" Height="87.5" Width="2" Foreground="#FF1A1D24" />
-
-                    <Image Margin="50,0,10,0" Style="{StaticResource icon}"  Source="/font.png" />
-                    <ComboBox  x:Name="comboBo1x" Margin="15" Text="My Cities" Width="236" Height="37" HorizontalAlignment="Center"  BorderBrush="{x:Null}" Foreground="#FFE0E0E0" Background="#FF1A1D24"/>
-
-                    <Image Margin="50,0,10,0" Style="{StaticResource icon}"  Source="/size@8x.png" />
-                    <CheckBox Height="39" Width="41" Background="#FF1A1D24"/>
-                    <Image Margin="50,0,10,0" Style="{StaticResource icon}"  Source="/text boarder@8x.png" />
-                    <CheckBox Height="39" Width="41" Background="#FF1A1D24"/>
-                    <Image Margin="50,0,10,0" Style="{StaticResource icon}" Source="/text background @8x.png" />
-                    <CheckBox Style="{StaticResource CheckBoxStyle}" />
-                    <Button Content="Accept" Margin="300,0,0,0" Style="{StaticResource BlueButton}"/>
-                    <Button Content="Cancle" Margin="20,0,0,0" Style="{StaticResource BlackButton}"/>
-
-                </ToolBar>
-            </ToolBarTray>
-        </Viewbox>
-
+        <Frame DockPanel.Dock="Top" x:Name="toolbox" VerticalAlignment="Stretch" VerticalContentAlignment="Center" HorizontalAlignment="Stretch"  HorizontalContentAlignment="Center" Source="/Setting-Text.xaml" Background="DarkGray" />
 
 
 
         <!---Main content-->
-        <Grid Background="#FF1A1D24" Margin="0,50,0,0" VerticalAlignment="Center" HorizontalAlignment="Center">
-            <Grid.ColumnDefinitions>
-                <ColumnDefinition Width="*"/>
-                <ColumnDefinition Width="*"/>
-                <ColumnDefinition Width="*"/>
-            </Grid.ColumnDefinitions>
-            <Grid.RowDefinitions>
-                <RowDefinition Height="*"/>
-                <RowDefinition Height="0.1*"/>
-            </Grid.RowDefinitions>
 
-            <Viewbox  MaxWidth="480" MinWidth="200"  VerticalAlignment="Top"  >
+        <Frame DockPanel.Dock="Top"  Margin="30"  x:Name="maincontent" VerticalAlignment="Stretch" VerticalContentAlignment="Center" HorizontalAlignment="Stretch"  HorizontalContentAlignment="Center" Source="/Setting-Match.xaml" Background="#FF1A1D24" />
 
-                <StackPanel  Margin="50" VerticalAlignment="Top" HorizontalAlignment="Center">
-                    <Image Margin="15" Source="/Al_Ahli_Saudi_FC_logo.svg.png" Stretch="Fill" Height="211.27" Width="175"/>
-
-                    <Border BorderThickness="1" 
-                     CornerRadius="30,30,0,0" Margin="8,0,20,0" Background="#FF2A3036" Height="62" Width="404">
-
-                        <Border BorderThickness="1"  CornerRadius="30" Background="#FF2A3036" BorderBrush="#FF6D7077" Margin="0,0,3,2">
-                            <TextBlock VerticalAlignment="Center" Margin="0" Text="Team Name" FontSize="28" Style="{StaticResource SubTitle}" />
-                        </Border>
-
-                    </Border>
-
-                    <!---Team Player-->
-
-                    <ScrollViewer  Margin="0,-1,0,0"  Height="295" Width="414">
-
-
-                        <StackPanel  Background="#FF2A3036">
-
-                            <Border  CornerRadius="0">
-                                <TextBlock Style="{StaticResource Paragraph}"> Player Name 1</TextBlock>
-                            </Border>
-                            <Border  CornerRadius="0" Background="#FF24282E">
-                                <TextBlock Style="{StaticResource Paragraph}"> Player Name 1</TextBlock>
-                            </Border>
-                            <Border  CornerRadius="0">
-                                <TextBlock Style="{StaticResource Paragraph}"> Player Name 1</TextBlock>
-                            </Border>
-                            <Border  CornerRadius="0" Background="#FF24282E">
-                                <TextBlock Style="{StaticResource Paragraph}"> Player Name 1</TextBlock>
-                            </Border>
-                            <Border  CornerRadius="0">
-                                <TextBlock Style="{StaticResource Paragraph}"> Player Name 1</TextBlock>
-                            </Border>
-                            <Border  CornerRadius="0" Background="#FF24282E">
-                                <TextBlock Style="{StaticResource Paragraph}"> Player Name 1</TextBlock>
-                            </Border>
-                            <Border  CornerRadius="0" >
-                                <TextBlock Style="{StaticResource Paragraph}"> Player Name 1</TextBlock>
-                            </Border>
-                            <Border  CornerRadius="0" Background="#FF24282E">
-                                <TextBlock Style="{StaticResource Paragraph}"> Player Name 1</TextBlock>
-                            </Border>
-
-                        </StackPanel>
-                    </ScrollViewer>
-
-                </StackPanel>
-
-            </Viewbox>
-
-            <Viewbox MaxWidth="400" MinWidth="200" Grid.Column="1"  VerticalAlignment="Center" >
-                <StackPanel  Margin="50" Width="Auto" VerticalAlignment="Center" HorizontalAlignment="Center">
-
-                    <TextBlock Margin="0" Text="MBS League" Style="{StaticResource SubTitle}" />
-                    <TextBlock Margin="0" Text="Round" Style="{StaticResource SubTitleGray}" />
-
-                    <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
-                        <StackPanel  Margin="0,0,50,0" Orientation="Vertical" VerticalAlignment="Center" >
-                            <Button  Content="+" Style="{StaticResource IncreasButton}" Width="39" Margin="0,0,0,2" />
-                            <Button  Content="-" Style="{StaticResource DecreasButton}" Width="39" />
-                        </StackPanel>
-
-                        <TextBlock Margin="0" Text="0" FontSize="118" Style="{StaticResource Title}" />
-                        <TextBlock Margin="0" Text="-" FontSize="118" Style="{StaticResource Title}" />
-                        <TextBlock Margin="0" Text="0" FontSize="118" Style="{StaticResource Title}" />
-
-                        <StackPanel Margin="50,0,0,0" Orientation="Vertical" VerticalAlignment="Center" >
-                            <Button Content="+" Style="{StaticResource IncreasButton}" Width="39" Margin="0,0,0,2" />
-                            <Button Content="-" Style="{StaticResource DecreasButton}" Width="39" />
-                        </StackPanel>
-
-                    </StackPanel>
-
-
-
-                    <Border Margin="15" BorderThickness="1" Grid.Row="0" Grid.ColumnSpan="2"
-                     CornerRadius="12,12,165,165" Background="#FF2A3036" Height="138" Width="321" RenderTransformOrigin="0.5,0.5" BorderBrush="#FF6D7077">
-                        <StackPanel Orientation="Vertical">
-                            <TextBlock Margin="0" Text="1st" Style="{StaticResource Paragraph}" Height="34" />
-                            <TextBlock Margin="0"  Text="00-00" Style="{StaticResource TextNumber}" />
-
-                            <StackPanel Margin="10" Orientation="Horizontal" HorizontalAlignment="Center" >
-                                <Button Style="{StaticResource ReplayButton}" Margin="4" RenderTransformOrigin="0.5,0.5" Height="22" Width="26">
-                                </Button>
-
-                                <Button Style="{StaticResource PlayButton}"  Margin="4" Height="24" Width="29">
-
-                                </Button>
-
-                                <Button Style="{StaticResource StopButton}"  Margin="4" Height="23" Width="28">
-
-                                </Button>
-
-
-                            </StackPanel>
-                        </StackPanel>
-
-
-                    </Border>
-
-                    <Image Margin="50" Height="202" Source="/oclock@8x.png" Stretch="Fill" Width="202.2"/>
-                </StackPanel>
-            </Viewbox>
-
-            <Viewbox Grid.Column="2" MaxWidth="480" MinWidth="200"  VerticalAlignment="Top"  >
-
-                <StackPanel  Margin="50" VerticalAlignment="Top" HorizontalAlignment="Center">
-                    <Image Margin="15" Source="/Al_Ahli_Saudi_FC_logo.svg.png" Stretch="Fill" Height="211.27" Width="175"/>
-
-                    <Border BorderThickness="1" 
-                     CornerRadius="30,30,0,0" Margin="8,0,20,0" Background="#FF2A3036" Height="62" Width="404">
-
-                        <Border BorderThickness="1"  CornerRadius="30" Background="#FF2A3036" BorderBrush="#FF6D7077" Margin="0,0,3,2">
-                            <TextBlock VerticalAlignment="Center" Margin="0" Text="Team Name" FontSize="28" Style="{StaticResource SubTitle}" />
-                        </Border>
-
-                    </Border>
-
-                    <!---Team Player-->
-
-                    <ScrollViewer  Margin="0,-1,0,0"  Height="295" Width="414">
-                        
-                   
-                    <StackPanel  Background="#FF2A3036">
-
-                        <Border  CornerRadius="0">
-                            <TextBlock Style="{StaticResource Paragraph}"> Player Name 1</TextBlock>
-                        </Border>
-                        <Border  CornerRadius="0" Background="#FF24282E">
-                            <TextBlock Style="{StaticResource Paragraph}"> Player Name 1</TextBlock>
-                        </Border>
-                        <Border  CornerRadius="0">
-                            <TextBlock Style="{StaticResource Paragraph}"> Player Name 1</TextBlock>
-                        </Border>
-                        <Border  CornerRadius="0" Background="#FF24282E">
-                            <TextBlock Style="{StaticResource Paragraph}"> Player Name 1</TextBlock>
-                        </Border>
-                        <Border  CornerRadius="0">
-                            <TextBlock Style="{StaticResource Paragraph}"> Player Name 1</TextBlock>
-                        </Border>
-                        <Border  CornerRadius="0" Background="#FF24282E">
-                            <TextBlock Style="{StaticResource Paragraph}"> Player Name 1</TextBlock>
-                        </Border>
-                        <Border  CornerRadius="0" >
-                            <TextBlock Style="{StaticResource Paragraph}"> Player Name 1</TextBlock>
-                        </Border>
-                        <Border  CornerRadius="0" Background="#FF24282E">
-                            <TextBlock Style="{StaticResource Paragraph}"> Player Name 1</TextBlock>
-                        </Border>
-
-                    </StackPanel>
-                    </ScrollViewer>
-                    
-                </StackPanel>
-
-            </Viewbox>
-
-            <Viewbox Grid.Row="1" Grid.ColumnSpan="3"  MaxWidth="400" MinWidth="450" HorizontalAlignment="Right" VerticalAlignment="Top"  >
-
-                <StackPanel   HorizontalAlignment="Right" Orientation="Horizontal" >
-                    <Button  Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FF6D7077">
-                        <StackPanel Orientation="Horizontal">
-                            <TextBlock Style="{StaticResource SubTitleGray}" >Edit backeground</TextBlock>
-                            <Image Style="{StaticResource icon}" Source="/image@8x.png" />
-                        </StackPanel>
-                    </Button>
-
-                    <Button  Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FF6D7077">
-                        <StackPanel Orientation="Horizontal">
-                            <TextBlock Style="{StaticResource SubTitleGray}" Text="Full previue" />
-                            <Image Style="{StaticResource icon}"  Source="/preview@8x.png" />
-                        </StackPanel>
-                    </Button>
-                </StackPanel>
-
-            </Viewbox>
-
-        </Grid>
 
 
 
     </DockPanel>
+
 
 
 </Window>
