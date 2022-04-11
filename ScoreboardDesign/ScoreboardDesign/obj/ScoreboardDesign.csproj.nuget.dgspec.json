@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MOS Supervisor IT\\Desktop\\New folder\\ScoreboardDesign\\ScoreboardDesign\\ScoreboardDesign.csproj": {}
+    "C:\\Users\\Admin\\Source\\Repos\\Scoreboard-Controller\\ScoreboardDesign\\ScoreboardDesign\\ScoreboardDesign.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MOS Supervisor IT\\Desktop\\New folder\\ScoreboardDesign\\ScoreboardDesign\\ScoreboardDesign.csproj": {
+    "C:\\Users\\Admin\\Source\\Repos\\Scoreboard-Controller\\ScoreboardDesign\\ScoreboardDesign\\ScoreboardDesign.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MOS Supervisor IT\\Desktop\\New folder\\ScoreboardDesign\\ScoreboardDesign\\ScoreboardDesign.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Source\\Repos\\Scoreboard-Controller\\ScoreboardDesign\\ScoreboardDesign\\ScoreboardDesign.csproj",
         "projectName": "ScoreboardDesign",
-        "projectPath": "C:\\Users\\MOS Supervisor IT\\Desktop\\New folder\\ScoreboardDesign\\ScoreboardDesign\\ScoreboardDesign.csproj",
-        "packagesPath": "C:\\Users\\MOS Supervisor IT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MOS Supervisor IT\\Desktop\\New folder\\ScoreboardDesign\\ScoreboardDesign\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Source\\Repos\\Scoreboard-Controller\\ScoreboardDesign\\ScoreboardDesign\\ScoreboardDesign.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Source\\Repos\\Scoreboard-Controller\\ScoreboardDesign\\ScoreboardDesign\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\MOS Supervisor IT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
