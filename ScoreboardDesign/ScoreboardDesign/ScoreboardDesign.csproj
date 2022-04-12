@@ -38,7 +38,6 @@
     <None Remove="img\upload%408x.png" />
     <None Remove="img\viseble%408x.png" />
     <None Remove="map.svg" />
-    <None Remove="viseble%408x.png" />
   </ItemGroup>
 
   <ItemGroup>
@@ -71,7 +70,6 @@
     <Resource Include="img\text boarder@8x.png" />
     <Resource Include="img\upload@8x.png" />
     <Resource Include="img\viseble@8x.png" />
-    <Resource Include="viseble@8x.png" />
   </ItemGroup>
 
 </Project>

@@ -2,6 +2,9 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup />
   <ItemGroup>
+    <Compile Update="Scoreboard-View.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Setting-Clock.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -22,7 +25,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Page Update="Dictionary1.xaml">
+    <Page Update="Scoreboard-View.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Setting-Clock.xaml">
