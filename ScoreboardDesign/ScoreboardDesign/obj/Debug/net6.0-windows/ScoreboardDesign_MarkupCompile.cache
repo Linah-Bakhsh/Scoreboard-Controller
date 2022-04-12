@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Admin\Source\Repos\Scoreboard-Controller\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\
-ScoreboardDesign_02bkioz0_wpftmp
+C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\
+ScoreboardDesign
 none
 false
-TRACE;RELEASE;NET;NET6_0;NETCOREAPP
-C:\Users\Admin\Source\Repos\Scoreboard-Controller\ScoreboardDesign\ScoreboardDesign\App.xaml
-6331504556
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\App.xaml
+7-104436335
 
-131431332559
-388-1003396528
-Dictionary1.xaml;MainWindow.xaml;Page1.xaml;Setting-Match.xaml;Setting-Text.xaml;Window1.xaml;
+81105733459
+1941645785384
+Dictionary1.xaml;MainWindow.xaml;Setting-Clock.xaml;Setting-Match.xaml;Setting-Picture.xaml;Setting-Text.xaml;Window1.xaml;
 
 False
 

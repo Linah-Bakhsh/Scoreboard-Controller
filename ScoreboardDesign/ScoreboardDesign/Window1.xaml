@@ -17,10 +17,10 @@
         <Viewbox MaxWidth="98">
             <StackPanel VerticalAlignment="Center"  DockPanel.Dock="Left" Background="#FF1149D0" Width="98">
 
-                <Image Margin="0,400,0,0" Style="{StaticResource icon}" Source="/setting@8x.png" />
-                <Image Margin="0,70,0,0" Style="{StaticResource icon}" Source="/play list@8x.png" />
-                <Image Margin="0,70,0,0" Style="{StaticResource icon}" Source="/report@8x.png" />
-                <Image Margin="0,70,0,400" Style="{StaticResource icon}" Source="/streamed screen@8x.png" />
+                <Image Margin="0,400,0,0" Style="{StaticResource icon}" Source="/img/setting@8x.png" />
+                <Image Margin="0,70,0,0" Style="{StaticResource icon}" Source="/img/play list@8x.png" />
+                <Image Margin="0,70,0,0" Style="{StaticResource icon}" Source="/img/report@8x.png" />
+                <Image Margin="0,70,0,400" Style="{StaticResource icon}" Source="/img/streamed screen@8x.png" />
                 <StackPanel Height="100"/>
 
             </StackPanel>

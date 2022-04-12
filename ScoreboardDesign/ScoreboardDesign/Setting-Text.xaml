@@ -22,7 +22,7 @@
                 <Button Command="Paste" ToolTip="Paste from Windows Clipboard.">
                     <StackPanel Orientation="Horizontal">
 
-                        <TextBlock FontSize="40"  Margin="30" Text="Text Proparities"  Style="{StaticResource Title }"/>
+                        <TextBlock FontSize="40"  Margin="30"  Style="{StaticResource Title}"><Run Text="Text "/><Run Text="Poperties"/></TextBlock>
 
                     </StackPanel>
                 </Button>

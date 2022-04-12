@@ -72,10 +72,8 @@ C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\
 C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\ScoreboardDesign.pdb
 C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\ScoreboardDesign.genruntimeconfig.cache
 C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\ref\ScoreboardDesign.dll
-C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\Page1.g.cs
 C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\Setting-Match.g.cs
 C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\Setting-Text.g.cs
-C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\Page1.baml
 C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\Setting-Text.baml
 C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\Setting-Match.baml
 C:\Users\Admin\Source\Repos\Scoreboard-Controller\ScoreboardDesign\ScoreboardDesign\bin\Debug\net6.0-windows\ScoreboardDesign.exe
@@ -109,3 +107,7 @@ C:\Users\Admin\Source\Repos\Scoreboard-Controller\ScoreboardDesign\ScoreboardDes
 C:\Users\Admin\Source\Repos\Scoreboard-Controller\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\ScoreboardDesign.pdb
 C:\Users\Admin\Source\Repos\Scoreboard-Controller\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\ScoreboardDesign.genruntimeconfig.cache
 C:\Users\Admin\Source\Repos\Scoreboard-Controller\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\ref\ScoreboardDesign.dll
+C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\Setting-Clock.g.cs
+C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\Setting-Picture.g.cs
+C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\Setting-Clock.baml
+C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\Setting-Picture.baml
