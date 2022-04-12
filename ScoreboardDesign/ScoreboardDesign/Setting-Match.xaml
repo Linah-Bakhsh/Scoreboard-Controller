@@ -26,14 +26,14 @@
             <StackPanel  Margin="50" VerticalAlignment="Top" HorizontalAlignment="Center">
 
                 <!--TEAM PIC-->
-                <Image Margin="15" Source="img/alahli.png.png" Stretch="Fill" Height="211.27" Width="175"/>
+                <Image x:Name="LogoHome" Margin="15" Source="img/alahli.png.png" Stretch="Fill" Height="211.27" Width="175"/>
 
                 <Border BorderThickness="1" 
                      CornerRadius="30,30,0,0" Margin="8,0,20,0" Background="#FF2A3036" Height="62" Width="404">
 
                     <Border BorderThickness="1"  CornerRadius="30" Background="#FF2A3036" BorderBrush="#FF6D7077" Margin="0,0,3,2">
                         <!--TEAM name-->
-                        <TextBlock VerticalAlignment="Center" Margin="0" Text="Team Name" FontSize="28" Style="{StaticResource SubTitle}" />
+                        <TextBlock x:Name="TextTeamHome" VerticalAlignment="Center" Margin="0" Text="Team Name" FontSize="28" Style="{StaticResource SubTitle}" />
                     </Border>
 
                 </Border>
@@ -45,28 +45,28 @@
 
                         <!---Player Name 1-->
                         <Border  CornerRadius="0">
-                            <TextBlock Style="{StaticResource Paragraph}"> Player Name 1</TextBlock>
+                            <TextBlock x:Name="TextPlayerNameHome1" Style="{StaticResource Paragraph}" Text="Player Name 1"/>
                         </Border>
                         <Border  CornerRadius="0" Background="#FF24282E">
-                            <TextBlock Style="{StaticResource Paragraph}"> Player Name 1</TextBlock>
+                            <TextBlock x:Name="TextPlayerNameHome2" Style="{StaticResource Paragraph}" Text="Player Name 2"/>
                         </Border>
                         <Border  CornerRadius="0">
-                            <TextBlock Style="{StaticResource Paragraph}"> Player Name 1</TextBlock>
+                            <TextBlock x:Name="TextPlayerNameHome3" Style="{StaticResource Paragraph}" Text="Player Name 3"/>
                         </Border>
                         <Border  CornerRadius="0" Background="#FF24282E">
-                            <TextBlock Style="{StaticResource Paragraph}"> Player Name 1</TextBlock>
+                            <TextBlock x:Name="TextPlayerNameHome4" Style="{StaticResource Paragraph}" Text="Player Name 4"/>
                         </Border>
                         <Border  CornerRadius="0">
-                            <TextBlock Style="{StaticResource Paragraph}"> Player Name 1</TextBlock>
+                            <TextBlock x:Name="TextPlayerNameHome5" Style="{StaticResource Paragraph}" Text="Player Name 5"/>
                         </Border>
                         <Border  CornerRadius="0" Background="#FF24282E">
-                            <TextBlock Style="{StaticResource Paragraph}"> Player Name 1</TextBlock>
+                            <TextBlock x:Name="TextPlayerNameHome6" Style="{StaticResource Paragraph}" Text="Player Name 6"/>
                         </Border>
                         <Border  CornerRadius="0" >
-                            <TextBlock Style="{StaticResource Paragraph}"> Player Name 1</TextBlock>
+                            <TextBlock x:Name="TextPlayerNameHome7" Style="{StaticResource Paragraph}" Text="Player Name 7"/>
                         </Border>
                         <Border  CornerRadius="0" Background="#FF24282E">
-                            <TextBlock Style="{StaticResource Paragraph}"> Player Name 1</TextBlock>
+                            <TextBlock x:Name="TextPlayerNameHome8" Style="{StaticResource Paragraph}" Text="Player Name 8"/>
                         </Border>
 
                     </StackPanel>
@@ -82,27 +82,27 @@
             <StackPanel  Margin="50" Width="Auto" VerticalAlignment="Center" HorizontalAlignment="Center">
 
                 <!---Event Name-->
-                <TextBlock Margin="0" Text="MBS League" Style="{StaticResource SubTitle}" />
+                <TextBlock x:Name="TextNameEvent" Margin="0" Text="MBS League" Style="{StaticResource SubTitle}" />
                 <!---Round NO.-->
-                <TextBlock Margin="0" Text="Round" Style="{StaticResource SubTitleGray}" />
+                <TextBlock x:Name="TextRound" Margin="0" Text="Round" Style="{StaticResource SubTitleGray}" />
 
                 <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
                     <!---Increas/ Decreas Button Score for Team 1-->
                     <StackPanel  Margin="0,0,50,0" Orientation="Vertical" VerticalAlignment="Center" >
                         <!---Increas Score Button -->
-                        <Button  Content="+" Style="{StaticResource IncreasButton}" Width="39" Margin="0,0,0,2" />
-                        <Button  Content="-" Style="{StaticResource DecreasButton}" Width="39" />
+                        <Button x:Name="BtnHomeGoolPlus"  Content="+" Style="{StaticResource IncreasButton}" Width="39" Margin="0,0,0,2" />
+                        <Button x:Name="BtnHomeGoolDecrease"  Content="-" Style="{StaticResource DecreasButton}" Width="39" />
                     </StackPanel>
 
-                    <TextBlock Margin="0" Text="0" FontSize="118" Style="{StaticResource Title}" />
+                    <TextBlock x:Name="LabelHomeGool" Margin="0" Text="0" FontSize="118" Style="{StaticResource Title}" />
                     <TextBlock Margin="0" Text="-" FontSize="118" Style="{StaticResource Title}" />
-                    <TextBlock Margin="0" Text="0" FontSize="118" Style="{StaticResource Title}" />
+                    <TextBlock x:Name="LabelAwayGool" Margin="0" Text="0" FontSize="118" Style="{StaticResource Title}" />
 
                     <!---Increas/ Decreas Button Score for Team 2-->
                     <StackPanel Margin="50,0,0,0" Orientation="Vertical" VerticalAlignment="Center" >
                         <!---Increas Score Button -->
-                        <Button Content="+" Style="{StaticResource IncreasButton}" Width="39" Margin="0,0,0,2" />
-                        <Button Content="-" Style="{StaticResource DecreasButton}" Width="39" />
+                        <Button x:Name="BtnAwayGoolPlus" Content="+" Style="{StaticResource IncreasButton}" Width="39" Margin="0,0,0,2" Click="Button_Click" />
+                        <Button x:Name="BtnAwayGoolDecrease" Content="-" Style="{StaticResource DecreasButton}" Width="39" />
                     </StackPanel>
 
                 </StackPanel>
@@ -113,24 +113,24 @@
                      CornerRadius="12,12,165,165" Background="#FF2A3036" Height="138" Width="321" RenderTransformOrigin="0.5,0.5" BorderBrush="#FF6D7077">
                     <StackPanel Orientation="Vertical">
                         <!---Match Round -->
-                        <TextBlock Margin="0" Text="1st" Style="{StaticResource Paragraph}" Height="34" />
+                        <TextBlock x:Name="LabelHalf" Margin="0" Text="1st" Style="{StaticResource Paragraph}" Height="34" />
 
                         <!---Timer -->
-                        <TextBlock Margin="0"  Text="00-00" Style="{StaticResource TextNumber}" />
+                        <TextBlock x:Name="LabelTimer" Margin="0"  Text="00-00" Style="{StaticResource TextNumber}" />
 
                         <!---Timer Control-->
                         <StackPanel Margin="10" Orientation="Horizontal" HorizontalAlignment="Center" >
                             <!---Restart button-->
-                            <Button Style="{StaticResource ReplayButton}" Margin="4" RenderTransformOrigin="0.5,0.5" Height="22" Width="26">
+                            <Button x:Name="BtnReset" Style="{StaticResource ReplayButton}" Margin="4" RenderTransformOrigin="0.5,0.5" Height="22" Width="26">
                             </Button>
 
                             <!---Start button-->
-                            <Button Style="{StaticResource PlayButton}"  Margin="4" Height="24" Width="29">
+                            <Button x:Name="BtnPlay_Pause" Style="{StaticResource PlayButton}"  Margin="4" Height="24" Width="29">
 
                             </Button>
 
                             <!---Puse button -->
-                            <Button Style="{StaticResource StopButton}"  Margin="4" Height="23" Width="28">
+                            <Button x:Name="BtnStop" Style="{StaticResource StopButton}"  Margin="4" Height="23" Width="28">
 
                             </Button>
 
@@ -153,51 +153,51 @@
             <StackPanel  Margin="50" VerticalAlignment="Top" HorizontalAlignment="Center">
 
                 <!--TEAM PIC-->
-                <Image Margin="15" Source="img/alahli.png.png" Stretch="Fill" Height="211.27" Width="175"/>
+                <Image x:Name="LogoAway" Margin="15" Source="img/alahli.png.png" Stretch="Fill" Height="211.27" Width="175"/>
 
                 <Border BorderThickness="1" 
                      CornerRadius="30,30,0,0" Margin="8,0,20,0" Background="#FF2A3036" Height="62" Width="404">
 
                     <Border BorderThickness="1"  CornerRadius="30" Background="#FF2A3036" BorderBrush="#FF6D7077" Margin="0,0,3,2">
                         <!--TEAM name-->
-                        <TextBlock VerticalAlignment="Center" Margin="0" Text="Team Name" FontSize="28" Style="{StaticResource SubTitle}" />
+                        <TextBlock x:Name="TextTeamAway" VerticalAlignment="Center" Margin="0" Text="Team Name" FontSize="28" Style="{StaticResource SubTitle}" />
                     </Border>
 
                 </Border>
-
-                <!---Team Players-->
-                <ScrollViewer  Margin="0,-1,0,0"  Height="295" Width="414">
+                <ScrollViewer  Height="295" Width="414">
 
                     <StackPanel  Background="#FF2A3036">
 
                         <!---Player Name 1-->
                         <Border  CornerRadius="0">
-                            <TextBlock Style="{StaticResource Paragraph}"> Player Name 1</TextBlock>
+                            <TextBlock x:Name="TextPlayerNameAway1" Style="{StaticResource Paragraph}" Text="Player Name 1"/>
                         </Border>
                         <Border  CornerRadius="0" Background="#FF24282E">
-                            <TextBlock Style="{StaticResource Paragraph}"> Player Name 1</TextBlock>
+                            <TextBlock x:Name="TextPlayerNameAway2" Style="{StaticResource Paragraph}" Text="Player Name 2"/>
                         </Border>
                         <Border  CornerRadius="0">
-                            <TextBlock Style="{StaticResource Paragraph}"> Player Name 1</TextBlock>
+                            <TextBlock x:Name="TextPlayerNameAway3" Style="{StaticResource Paragraph}" Text="Player Name 3"/>
                         </Border>
                         <Border  CornerRadius="0" Background="#FF24282E">
-                            <TextBlock Style="{StaticResource Paragraph}"> Player Name 1</TextBlock>
+                            <TextBlock x:Name="TextPlayerNameAway4" Style="{StaticResource Paragraph}" Text="Player Name 4"/>
                         </Border>
                         <Border  CornerRadius="0">
-                            <TextBlock Style="{StaticResource Paragraph}"> Player Name 1</TextBlock>
+                            <TextBlock x:Name="TextPlayerNameAway5" Style="{StaticResource Paragraph}" Text="Player Name 5"/>
                         </Border>
                         <Border  CornerRadius="0" Background="#FF24282E">
-                            <TextBlock Style="{StaticResource Paragraph}"> Player Name 1</TextBlock>
+                            <TextBlock x:Name="TextPlayerNameAway6" Style="{StaticResource Paragraph}" Text="Player Name 6"/>
                         </Border>
                         <Border  CornerRadius="0" >
-                            <TextBlock Style="{StaticResource Paragraph}"> Player Name 1</TextBlock>
+                            <TextBlock x:Name="TextPlayerNameAway7" Style="{StaticResource Paragraph}" Text="Player Name 7"/>
                         </Border>
                         <Border  CornerRadius="0" Background="#FF24282E">
-                            <TextBlock Style="{StaticResource Paragraph}"> Player Name 1</TextBlock>
+                            <TextBlock x:Name="TextPlayerNameAway8" Style="{StaticResource Paragraph}" Text="Player Name 8"/>
                         </Border>
 
                     </StackPanel>
                 </ScrollViewer>
+
+                <!---Team Players-->
 
             </StackPanel>
 
@@ -208,14 +208,14 @@
         <Viewbox Grid.Row="1" Grid.ColumnSpan="3"  MaxWidth="400" MinWidth="450" HorizontalAlignment="Right" VerticalAlignment="Top"  >
 
             <StackPanel   HorizontalAlignment="Right" Orientation="Horizontal" >
-                <Button  Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FF6D7077">
+                <Button x:Name="BtnBackgoundEdit"  Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FF6D7077">
                     <StackPanel Orientation="Horizontal">
                         <TextBlock Style="{StaticResource SubTitleGray}" >Edit backeground</TextBlock>
                         <Image Style="{StaticResource icon}" Source="img/image@8x.png" />
                     </StackPanel>
                 </Button>
 
-                <Button  Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FF6D7077">
+                <Button x:Name="BtnFullPreviue"  Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FF6D7077">
                     <StackPanel Orientation="Horizontal">
                         <TextBlock Style="{StaticResource SubTitleGray}" Text="Full previue" />
                         <Image Style="{StaticResource icon}"  Source="img/preview@8x.png" />
