@@ -77,29 +77,28 @@
         </Viewbox>
 
         <!--Match setting-->
-        <Viewbox MaxWidth="400" MinWidth="200" Grid.Column="1"  VerticalAlignment="Center" >
+        <Viewbox MaxWidth="400" MinWidth="330" Grid.Column="1"  VerticalAlignment="Center" >
 
-            <StackPanel  Margin="50" Width="Auto" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <StackPanel  Margin="0,60,0,0"  VerticalAlignment="Center" HorizontalAlignment="Center">
 
                 <!---Event Name-->
                 <TextBlock x:Name="TextNameEvent" Margin="0" Text="MBS League" Style="{StaticResource SubTitle}" />
                 <!---Round NO.-->
-                <TextBlock x:Name="TextRound" Margin="0" Text="Round" Style="{StaticResource SubTitleGray}" />
+                <TextBlock x:Name="TextRound" Margin="20,0,0,10" Text="Round" Style="{StaticResource SubTitleGray}" />
 
                 <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
                     <!---Increas/ Decreas Button Score for Team 1-->
-                    <StackPanel  Margin="0,0,50,0" Orientation="Vertical" VerticalAlignment="Center" >
+                    <StackPanel   Orientation="Vertical" VerticalAlignment="Center" >
                         <!---Increas Score Button -->
                         <Button x:Name="BtnHomeGoolPlus"  Content="+" Style="{StaticResource IncreasButton}" Width="39" Margin="0,0,0,2" />
                         <Button x:Name="BtnHomeGoolDecrease"  Content="-" Style="{StaticResource DecreasButton}" Width="39" />
                     </StackPanel>
-
-                    <TextBlock x:Name="LabelHomeGool" Margin="0" Text="0" FontSize="118" Style="{StaticResource Title}" />
+                    <TextBlock x:Name="LabelHomeGool" Margin="0" Text="0" FontSize="118" Style="{StaticResource Title}" Width="135" HorizontalAlignment="Right" TextAlignment="Right" />
                     <TextBlock Margin="0" Text="-" FontSize="118" Style="{StaticResource Title}" />
-                    <TextBlock x:Name="LabelAwayGool" Margin="0" Text="0" FontSize="118" Style="{StaticResource Title}" />
+                    <TextBlock x:Name="LabelAwayGool" Margin="0" Text="0" FontSize="118" Style="{StaticResource Title}" Width="135" />
 
                     <!---Increas/ Decreas Button Score for Team 2-->
-                    <StackPanel Margin="50,0,0,0" Orientation="Vertical" VerticalAlignment="Center" >
+                    <StackPanel  Orientation="Vertical" VerticalAlignment="Center" >
                         <!---Increas Score Button -->
                         <Button x:Name="BtnAwayGoolPlus" Content="+" Style="{StaticResource IncreasButton}" Width="39" Margin="0,0,0,2" Click="Button_Click" />
                         <Button x:Name="BtnAwayGoolDecrease" Content="-" Style="{StaticResource DecreasButton}" Width="39" />
