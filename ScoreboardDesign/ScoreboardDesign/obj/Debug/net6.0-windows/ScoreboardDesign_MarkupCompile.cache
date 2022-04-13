@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\App.xaml
-7-104436335
+8-831806279
 
-81105733459
+10-680617368
 1941645785384
-Dictionary1.xaml;MainWindow.xaml;Setting-Clock.xaml;Setting-Match.xaml;Setting-Picture.xaml;Setting-Text.xaml;Window1.xaml;
+Scoreboard-View.xaml;Setting-Clock.xaml;Setting-Match.xaml;Setting-Picture.xaml;Setting-Text.xaml;Setting-Timer.xaml;StylePreview.xaml;Window1.xaml;
 
-False
+True
 

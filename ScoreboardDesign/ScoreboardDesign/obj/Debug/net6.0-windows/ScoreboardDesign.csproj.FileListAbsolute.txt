@@ -111,3 +111,6 @@ C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\
 C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\Setting-Picture.g.cs
 C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\Setting-Clock.baml
 C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\Setting-Picture.baml
+C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\Scoreboard-View.g.cs
+C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\Setting-Timer.g.cs
+C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\StylePreview.g.cs

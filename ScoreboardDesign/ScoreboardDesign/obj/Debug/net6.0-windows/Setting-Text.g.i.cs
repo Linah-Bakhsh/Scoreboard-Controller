@@ -61,7 +61,7 @@ namespace ScoreboardDesign {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/ScoreboardDesign;V1.0.0.0;component/setting-text.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/ScoreboardDesign;component/setting-text.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Setting-Text.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
