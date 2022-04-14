@@ -213,7 +213,7 @@ namespace ScoreboardDesign {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/ScoreboardDesign;V1.0.0.0;component/scoreboard-view.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/ScoreboardDesign;component/scoreboard-view.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Scoreboard-View.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

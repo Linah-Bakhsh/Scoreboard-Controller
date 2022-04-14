@@ -114,3 +114,5 @@ C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\
 C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\Scoreboard-View.g.cs
 C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\Setting-Timer.g.cs
 C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\StylePreview.g.cs
+C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\Plenty.g.cs
+C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\Setting-Streem,.g.cs

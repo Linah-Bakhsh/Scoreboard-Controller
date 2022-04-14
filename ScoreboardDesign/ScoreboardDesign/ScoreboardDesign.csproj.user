@@ -2,6 +2,9 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup />
   <ItemGroup>
+    <Compile Update="Plenty.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Scoreboard-View.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -12,6 +15,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="Setting-Picture.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Setting-Streem,.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="Setting-Text.xaml.cs">
@@ -25,6 +31,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="Plenty.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="Scoreboard-View.xaml">
       <SubType>Designer</SubType>
     </Page>
@@ -35,6 +44,9 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Setting-Picture.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Setting-Streem,.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Setting-Text.xaml">
