@@ -53,14 +53,11 @@ C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\
 C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\bin\Debug\net6.0-windows\ScoreboardDesign.dll
 C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\bin\Debug\net6.0-windows\ScoreboardDesign.pdb
 C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\ScoreboardDesign.csproj.AssemblyReference.cache
-C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\Dictionary1.baml
-C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\MainWindow.g.cs
 C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\Window1.g.cs
 C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\App.g.cs
 C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\ScoreboardDesign_MarkupCompile.cache
 C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\ScoreboardDesign_MarkupCompile.lref
 C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\App.baml
-C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\MainWindow.baml
 C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\Window1.baml
 C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\ScoreboardDesign.g.resources
 C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\ScoreboardDesign.GeneratedMSBuildEditorConfig.editorconfig
@@ -116,3 +113,8 @@ C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\
 C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\StylePreview.g.cs
 C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\Plenty.g.cs
 C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\Setting-Streem,.g.cs
+C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\Scoreboard-View.baml
+C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\Setting-Timer.baml
+C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\StylePreview.baml
+C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\Plenty.baml
+C:\Users\MOS Supervisor IT\Desktop\New folder\ScoreboardDesign\ScoreboardDesign\obj\Debug\net6.0-windows\Setting-Streem,.baml

@@ -33,7 +33,7 @@
 
         <!---Main content-->
 
-        <Frame DockPanel.Dock="Top"  Margin="30"  x:Name="maincontent" VerticalAlignment="Stretch" VerticalContentAlignment="Center" HorizontalAlignment="Stretch"  HorizontalContentAlignment="Center" Source="/Setting-Match.xaml" Background="#FF1A1D24" />
+        <Frame DockPanel.Dock="Top"  Margin="30"  x:Name="maincontent" VerticalAlignment="Stretch" VerticalContentAlignment="Center" HorizontalAlignment="Stretch"  HorizontalContentAlignment="Center" Source="/Plenty.xaml" Background="#FF1A1D24" />
 
 
 

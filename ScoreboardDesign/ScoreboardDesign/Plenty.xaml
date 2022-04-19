@@ -7,43 +7,102 @@
       mc:Ignorable="d" 
       Title="Plenty">
 
-    <Grid Background="#FF1A1D24" VerticalAlignment="Center" HorizontalAlignment="Center" Width="800" Height="450">
+    <Grid Background="#FF1A1D24" Margin="10" VerticalAlignment="Center" HorizontalAlignment="Center" >
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*"/>
             <ColumnDefinition Width="*"/>
-            <ColumnDefinition Width="4*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
-            <RowDefinition Height="205*" />
-            <RowDefinition Height="201*"/>
-            <RowDefinition Height="44*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="0.1*"/>
         </Grid.RowDefinitions>
 
-        <Viewbox MaxWidth="120">
-            <TextBlock x:Name="LabelHomeGool" Margin="0" Text="0" FontSize="118" Style="{StaticResource Title}" Width="135" HorizontalAlignment="Right" TextAlignment="Right" />
+
+        <!--TEAM 1 content-->
+        <Viewbox  MaxWidth="240" MinWidth="200"  VerticalAlignment="Center" HorizontalAlignment="Center" >
+
+
+            <StackPanel  Margin="50" VerticalAlignment="Top" HorizontalAlignment="Center">
+
+                <TextBlock x:Name="TextNameEvent" Margin="0" Text="0" Style="{StaticResource SubTitle}" />
+
+
+            </StackPanel>
 
         </Viewbox>
 
-        <Viewbox Grid.Column="1" MaxWidth="120">
-            <!--TEAM PIC-->
-            <Image x:Name="LogoHome" Margin="15" Source="img/alahli.png.png" Stretch="Fill" Height="211.27" Width="175"/>
+        <!--Match setting-->
+        <Viewbox MaxWidth="200" MinWidth="130" Grid.Column="1"  VerticalAlignment="Center" >
+
+            <StackPanel  Margin="0,60,0,0"  VerticalAlignment="Center" HorizontalAlignment="Center">
+
+                <!--TEAM PIC-->
+                <Image x:Name="LogoAway" Margin="15" Source="img/alahli.png.png" Stretch="Fill" Height="211.27" Width="175"/>
+
+            </StackPanel>
+        </Viewbox>
+
+        <!--TEAM 2 content-->
+        <Viewbox  Grid.Column="2"  MinWidth="200" MaxWidth="940"  MaxHeight="400"  VerticalAlignment="Top"  >
+
+
+            <StackPanel  Margin="50" VerticalAlignment="Top" HorizontalAlignment="Center">
+
+              
+
+               
+
+            </StackPanel>
+
         </Viewbox>
 
 
-        <Viewbox MaxWidth="120" Grid.Row="1" >
-            <TextBlock x:Name="LabelLogoAway" Margin="0" Text="0" FontSize="118" Style="{StaticResource Title}" Width="135" HorizontalAlignment="Right" TextAlignment="Right" />
+
+
+        <!--TEAM 1 content-->
+        <Viewbox  Grid.Row="1" MaxWidth="240" MinWidth="200"  VerticalAlignment="Center"  >
+
+
+            <StackPanel  Margin="50" VerticalAlignment="Center" HorizontalAlignment="Center">
+
+                <TextBlock  Margin="0" Text="0" Style="{StaticResource SubTitle}" />
+
+
+            </StackPanel>
 
         </Viewbox>
 
-        <Viewbox Grid.Column="1" MaxWidth="120"  Grid.Row="1">
-            <!--TEAM PIC-->
-            <Image x:Name="LogoAway" Margin="15" Source="img/alahli.png.png" Stretch="Fill" Height="211.27" Width="175"/>
+        <!--Match setting-->
+        <Viewbox MaxWidth="200" MinWidth="130" Grid.Column="1" Grid.Row="1"  VerticalAlignment="Center" >
+
+            <StackPanel  Margin="0,60,0,0"  VerticalAlignment="Center" HorizontalAlignment="Center">
+
+                <!--TEAM PIC-->
+                <Image Margin="15" Source="img/alahli.png.png" Stretch="Fill" Height="211.27" Width="175"/>
+
+            </StackPanel>
+        </Viewbox>
+
+        <!--TEAM 2 content-->
+        <Viewbox  Grid.Row="1" Grid.Column="2" MaxWidth="940"  MaxHeight="400" VerticalAlignment="Top"  >
+
+
+            <StackPanel  Margin="50" VerticalAlignment="Top" HorizontalAlignment="Center">
+
+
+
+
+
+            </StackPanel>
+
         </Viewbox>
 
 
-
-        
-        <Viewbox Grid.Row="2"  MaxWidth="400" MinWidth="450" HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Column="2" Margin="162,0,0,0" Height="44" Width="356"  >
+        <Viewbox Grid.Row="2" Grid.ColumnSpan="3"  MaxWidth="400" MinWidth="450" HorizontalAlignment="Right" VerticalAlignment="Top"  >
 
             <StackPanel   HorizontalAlignment="Right" Orientation="Horizontal" >
                 <Button x:Name="BtnBackgoundEdit"  Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FF6D7077">
